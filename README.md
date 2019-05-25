@@ -1,4 +1,4 @@
-#A Simple Pascal Interpreter
+# A Simple Pascal Interpreter
 
 Based on a [tutorial](https://ruslanspivak.com/lsbasi-part14/) 
 
